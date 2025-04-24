@@ -1,0 +1,895 @@
+24-05-29 14:04 Session started
+----------------------------------------
+14:11:27 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Wares.html
+----------------------------------------
+14:11:28 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:11:28 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\index.html
+----------------------------------------
+14:11:29 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+14:11:34 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\index.html
+----------------------------------------
+14:11:38 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+14:12:36 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Wares.html
+----------------------------------------
+14:12:36 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+
+14:12:49 027:028 > k
+14:12:52 027:028 > kk
+14:12:54 027:023 > kkk
+14:12:57 027:016 > kkkb
+14:12:58 027:017 > kkkbu
+14:12:58 027:018 > kkkbut
+14:12:58 027:019 > kkkbutt
+14:12:58 027:020 > kkkbutto
+14:12:58 027:021 > kkkbutton
+14:12:58 027:016 > <button></button>
+14:13:00 027:024 > D
+14:13:00 027:025 > Da
+14:13:00 027:026 > Dar
+14:13:00 027:027 > Dark
+14:13:01 027:029 > Dark m
+14:13:01 027:030 > Dark mo
+14:13:01 027:031 > Dark mod
+14:13:01 027:032 > Dark mode
+14:13:06 027:034 > Dark mode K
+14:13:06 027:035 > Dark mode Kn
+14:13:07 027:036 > Dark mode Kna
+14:13:07 027:037 > Dark mode Knap
+14:13:07 027:038 > Dark mode Knapp
+14:13:09 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+14:13:17 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\index.html
+----------------------------------------
+14:13:18 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+
+14:13:24 033:004 > s
+14:13:24 033:005 > sc
+14:13:25 033:006 > scr
+14:13:25 033:007 > scri
+14:13:25 033:004 > <script></script>
+14:13:26 033:012 >  c
+14:13:27 033:013 >  cl
+14:13:27 033:014 >  cla
+14:13:28 033:015 >  clas
+14:13:28 033:012 > class=""
+14:13:30 033:018 > ""
+14:13:31 033:012 > clas
+14:13:32 033:012 >  s
+14:13:32 033:013 >  sr
+14:13:32 033:014 >  src
+14:13:33 033:012 > src=""
+14:13:37 033:017 > s
+14:13:37 033:018 > sk
+14:13:37 033:019 > skr
+14:13:37 033:020 > skri
+14:13:38 033:021 > skrip
+14:13:38 033:022 > skript
+14:13:40 033:018 > skriptc
+14:13:40 033:019 > skriptcr
+14:13:40 033:020 > skriptcri
+14:13:41 033:017 > script.js
+14:13:47 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+
+14:13:48 000:000 > a
+14:13:48 000:001 > ad
+14:13:48 000:002 > add
+14:13:48 000:003 > adde
+14:13:48 000:000 > addEventListener
+14:13:49 000:016 > .
+14:14:01 000:000 > .d
+14:14:01 000:001 > .do
+14:14:01 000:002 > .doc
+14:14:01 000:003 > .docu
+14:14:01 000:004 > .docum
+14:14:02 000:000 > document
+14:14:02 000:008 > .
+14:14:03 000:009 > .q
+14:14:03 000:010 > .qu
+14:14:03 000:008 > .querySelector
+14:14:04 000:022 > ()
+14:14:05 000:023 > b
+14:14:05 000:024 > bu
+14:14:08 000:022 > ()
+14:14:13 000:023 > ¨
+14:14:13 000:024 > ¨¨
+14:14:14 000:023 > ''
+14:14:14 000:024 > '
+14:14:15 000:024 > ''
+14:14:17 000:024 > ''b
+14:14:17 000:025 > ''bu
+14:14:18 000:025 > ''buu
+14:14:18 000:026 > ''buut
+14:14:18 000:027 > ''buutt
+14:14:18 000:028 > ''buutto
+14:14:19 000:029 > ''buutton
+14:14:27 000:032 > ''buutton.
+14:14:27 000:033 > ''buutton.a
+14:14:27 000:034 > ''buutton.ad
+14:14:27 000:035 > ''buutton.add
+14:14:28 000:032 > .addEventListener
+14:14:29 000:049 > ()
+14:14:29 000:050 > c
+14:14:29 000:051 > cl
+14:14:29 000:052 > cli
+14:14:29 000:053 > clic
+14:14:29 000:054 > click
+14:14:32 000:050 > ''
+14:14:33 000:051 > c
+14:14:33 000:052 > cl
+14:14:33 000:053 > cli
+14:14:33 000:054 > clic
+14:14:33 000:055 > click
+14:14:34 000:051 > click
+14:14:42 000:057 > ,
+14:14:43 000:059 > , f
+14:14:43 000:060 > , fu
+14:14:43 000:061 > , fun
+14:14:43 000:062 > , func
+14:14:43 000:063 > , funct
+14:14:43 000:064 > , functi
+14:14:44 000:065 > , functio
+14:14:44 000:066 > , function
+14:14:44 000:059 > function
+14:14:48 000:068 > {}
+
+14:15:03 001:000 > d
+14:15:03 001:001 > do
+14:15:03 001:002 > doc
+14:15:03 001:003 > docu
+14:15:04 001:004 > docum
+14:15:04 001:000 > document
+14:15:04 001:008 > .
+14:15:05 001:009 > .q
+14:15:05 001:010 > .qu
+14:15:05 001:011 > .que
+14:15:05 001:012 > .quer
+14:15:06 001:008 > .querySelector
+14:15:07 001:022 > ()
+14:15:12 001:023 > .
+14:15:13 001:023 > ''
+14:15:14 001:024 > b
+14:15:14 001:025 > bo
+14:15:14 001:026 > bod
+14:15:15 001:024 > body
+14:15:17 001:030 > .
+14:15:18 001:031 > .b
+14:15:18 001:032 > .ba
+14:15:18 001:033 > .bac
+14:15:18 001:034 > .back
+14:15:22 001:031 > .backc
+14:15:23 001:032 > .backco
+14:15:23 001:033 > .backcol
+14:15:23 001:034 > .backcolo
+14:15:47 001:031 > .backcolot
+14:15:47 001:032 > .backcolote
+14:15:47 001:033 > .backcolotex
+14:15:50 001:031 > .backcolotexi
+14:15:51 001:032 > .backcolotexim
+14:15:51 001:033 > .backcolotexima
+14:15:51 001:034 > .backcoloteximag
+14:15:53 001:031 > .backcoloteximagc
+14:15:53 001:032 > .backcoloteximagco
+14:15:54 001:033 > .backcoloteximagcol
+14:17:01 001:031 > .backcoloteximagcold
+14:17:01 001:032 > .backcoloteximagcoldo
+14:17:01 001:033 > .backcoloteximagcoldoc
+14:17:01 001:034 > .backcoloteximagcoldocu
+14:17:02 001:031 > document
+14:17:03 001:039 > .
+14:17:04 001:039 > .,
+14:17:04 001:039 > .,.
+14:17:07 001:039 > .document
+14:17:07 001:048 > .
+14:17:08 001:039 > ..
+14:17:09 001:040 > ..b
+14:17:09 001:041 > ..bo
+14:17:09 001:042 > ..bod
+14:17:10 001:043 > ..body
+14:17:22 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Wares.html
+----------------------------------------
+14:17:22 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:17:24 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\index.html
+----------------------------------------
+14:17:39 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\style.css
+----------------------------------------
+14:17:42 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:17:53 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\style.css
+----------------------------------------
+
+14:17:53 074:001 > ¨
+
+14:17:55 075:000 > .
+14:17:56 075:001 > .m
+14:17:56 075:002 > .ma
+14:17:56 075:003 > .mai
+14:17:56 075:004 > .main
+14:17:56 075:000 > .main
+14:17:57 075:006 >  h
+14:17:57 075:007 >  h3
+14:17:58 075:006 > h3
+14:18:05 075:008 > {}
+14:18:06 076:002 > .main h2 {
+  margin: 0px;
+  font-size: 20px;
+  padding: 0px 0px 0px 15px;
+
+}
+14:18:16 010:000 > },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    }
+14:18:24 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:18:26 028:008 > <h3>
+14:18:26 027:008 > </h2>
+14:18:26 024:008 > <h2>
+14:18:26 023:003 > <h2>
+14:18:26 017:004 > <ul>
+14:18:26 016:010 > <ul>
+14:18:26 015:010 > <ul>
+
+14:18:26 007:043 > /
+
+14:18:26 005:072 > /
+
+14:18:26 004:025 > /
+14:18:29 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Wares.html
+----------------------------------------
+14:18:31 048:007 > />
+14:18:31 047:003 > <img
+14:18:31 044:008 > />
+14:18:31 043:003 > <img
+14:18:31 040:004 > />
+14:18:31 038:003 > <img
+14:18:31 035:004 > />
+14:18:31 033:004 > <img
+14:18:31 030:008 > />
+14:18:31 028:003 > <img
+14:18:31 025:004 > />
+14:18:31 023:008 > <img
+14:18:31 017:004 > <ul>
+14:18:31 016:004 > <ul>
+14:18:31 015:010 > <ul>
+
+14:18:31 007:043 > /
+
+14:18:31 005:072 > /
+
+14:18:31 004:025 > /
+14:18:33 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\index.html
+----------------------------------------
+14:18:37 030:010 > />
+14:18:37 028:009 > <img
+14:18:37 027:010 > />
+14:18:37 025:005 > <img
+14:18:37 016:004 > <ul>
+14:18:37 015:010 > <ul>
+14:18:37 014:010 > <ul>
+
+14:18:37 007:043 > /
+
+14:18:37 005:072 > /
+
+14:18:37 004:025 > /
+14:18:38 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:18:39 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Wares.html
+----------------------------------------
+14:18:39 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+14:18:51 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\style.css
+----------------------------------------
+
+14:18:52 079:011 > 1
+14:18:52 079:012 > 10
+
+14:19:05 072:019 > 1
+14:19:05 072:020 > 10
+
+14:19:21 090:000 > b
+14:19:21 090:001 > bu
+14:19:21 090:002 > but
+14:19:21 090:003 > butt
+14:19:22 090:004 > butto
+14:19:22 090:005 > button
+14:19:22 090:000 > button
+14:19:23 090:006 > {}
+
+14:19:25 091:000 > m
+14:19:25 091:001 > ma
+14:19:25 091:002 > mar
+14:19:25 091:003 > marg
+14:19:25 091:004 > margi
+14:19:25 091:005 > margin
+14:19:26 091:000 > margin: ;
+14:19:27 091:008 > 0
+14:19:28 091:009 > 0p
+14:19:28 091:010 > 0px
+14:19:28 091:008 > 0px
+
+14:19:30 092:000 > p
+14:19:30 092:001 > pa
+14:19:30 092:002 > pad
+14:19:30 092:003 > padd
+14:19:30 092:004 > paddi
+14:19:30 092:005 > paddin
+14:19:30 092:006 > padding
+14:19:30 092:000 > padding: ;
+14:19:32 092:009 > 0
+14:19:32 092:009 > 01
+14:19:33 092:010 > 010
+14:19:33 092:011 > 010p
+14:19:33 092:012 > 010px
+14:19:33 092:009 > 10px
+14:19:34 092:013 > 0
+14:19:35 092:014 > 0 0
+14:19:35 092:015 > 0 0p
+14:19:35 092:016 > 0 0px
+14:19:35 092:014 > 0px
+14:19:36 092:018 >  1
+14:19:36 092:019 >  10
+14:19:36 092:020 >  10p
+14:19:36 092:021 >  10px
+14:19:36 092:018 > 10px
+14:19:37 092:023 >  0
+14:19:38 092:023 >  01
+14:19:38 092:024 >  010
+14:19:38 092:025 >  010p
+14:19:39 092:026 >  010px
+14:19:39 092:023 > 10px
+14:19:43 092:024 > 5
+14:19:47 092:023 > 50
+14:19:47 092:023 > 0%
+14:19:49 092:024 > p
+14:19:49 092:025 > px
+14:19:49 092:023 > 0px
+
+14:19:53 091:012 > 5
+14:19:53 091:013 > 50
+14:19:53 091:014 > 50%
+14:19:59 091:016 > 50% o
+14:20:00 091:017 > 50% op
+14:20:00 091:018 > 50% opx
+14:20:01 091:015 > 50% opx 0
+14:20:01 091:016 > 50% opx 0 0
+14:20:02 091:017 > 50% opx 0 0p
+14:20:02 091:018 > 50% opx 0 0px
+14:20:02 091:016 > 0px
+14:20:03 091:020 >  5
+14:20:03 091:021 >  50
+14:20:03 091:022 >  50%
+14:20:18 091:020 >  50%4
+14:20:18 091:021 >  50%45
+14:20:20 091:012 >  50%454
+14:20:20 091:013 >  50%4545
+14:20:27 091:012 >  50%45453
+14:20:34 091:012 >  50%454534
+14:20:35 091:021 >  50%4545343
+14:20:36 091:020 >  50%45453433
+14:20:41 091:020 >  50%454534334
+14:20:42 091:021 >  50%4545343340
+14:20:50 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:20:55 043:008 > <button>Dark mode Knapp</button>
+14:21:36 027:008 > <button>Dark mode Knapp</button>
+14:21:53 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\style.css
+----------------------------------------
+14:22:05 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+
+14:22:09 026:008 > d
+14:22:09 026:009 > di
+14:22:09 026:010 > div
+14:22:09 026:008 > <div></div>
+14:22:14 028:040 > </div>
+14:22:16 029:008 > </div>
+14:22:40 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\style.css
+----------------------------------------
+14:23:05 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:23:08 026:013 >   l
+14:23:08 026:014 >   lc
+14:23:09 026:013 >   lcc
+14:23:09 026:014 >   lccl
+14:23:09 026:015 >   lccla
+14:23:09 026:016 >   lcclas
+14:23:09 026:017 >   lcclass
+14:23:10 026:013 > class=""
+14:23:11 026:020 > H
+14:23:11 026:021 > He
+14:23:11 026:022 > Hea
+14:23:11 026:023 > Head
+14:23:11 026:024 > Heade
+14:23:11 026:025 > Header
+14:23:18 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\style.css
+----------------------------------------
+
+14:23:24 095:000 > -
+14:23:24 095:001 > -.
+14:23:25 095:000 > -..
+14:23:26 095:001 > -..H
+14:23:27 095:002 > -..He
+14:23:27 095:003 > -..Hea
+14:23:27 095:004 > -..Head
+14:23:27 095:005 > -..Heade
+14:23:27 095:006 > -..Header
+14:23:28 095:007 > {}
+
+14:23:31 096:000 > d
+14:23:31 096:001 > di
+14:23:31 096:002 > dis
+14:23:32 096:003 > disp
+14:23:32 096:004 > displ
+14:23:32 096:005 > displa
+14:23:32 096:000 > display: ;
+14:23:32 096:009 > g
+14:23:33 096:010 > gr
+14:23:33 096:011 > gri
+14:23:33 096:012 > grid
+14:23:33 096:009 > grid
+
+14:23:35 097:000 > g
+14:23:35 097:001 > gr
+14:23:36 097:002 > gri
+14:23:37 097:000 > grid-template-columns: ;
+14:23:39 097:023 > 1
+14:23:39 097:024 > 1f
+14:23:39 097:025 > 1fr
+14:23:40 097:027 > 1fr 1
+14:23:40 097:028 > 1fr 1f
+14:23:40 097:029 > 1fr 1fr
+14:23:41 097:027 > 1fr
+
+14:23:42 098:000 > g
+14:23:42 098:001 > gr
+14:23:43 098:002 > gri
+14:23:43 098:003 > grid
+14:23:44 098:000 > grid-template-rows: ;
+14:23:44 098:020 > 1
+14:23:45 098:021 > 1f
+14:23:45 098:022 > 1fr
+14:23:45 098:020 > 1fr
+
+14:23:54 091:012 > 3
+14:23:55 091:013 > 35
+14:24:01 091:020 > 351
+14:24:01 091:021 > 3510
+14:24:01 091:020 > 35103
+14:24:01 091:021 > 351030
+
+14:24:08 093:000 > h
+14:24:08 093:001 > he
+14:24:08 093:002 > hei
+14:24:08 093:003 > heig
+14:24:08 093:004 > heigh
+14:24:09 093:005 > height
+14:24:09 093:000 > height: ;
+14:24:10 093:008 > 1
+14:24:10 093:008 > 15
+14:24:10 093:009 > 150
+14:24:11 093:010 > 150p
+14:24:11 093:011 > 150px
+14:24:11 093:008 > 50px
+
+14:24:12 094:000 > w
+14:24:12 094:001 > wi
+14:24:13 094:002 > wid
+14:24:13 094:003 > widt
+14:24:13 094:000 > width: ;
+14:24:13 094:007 > 5
+14:24:14 094:008 > 50
+14:24:14 094:009 > 50p
+14:24:14 094:010 > 50px
+14:24:14 094:007 > 50px
+
+14:24:48 093:008 > 7
+14:24:48 093:009 > 70
+14:24:54 093:008 > 701
+14:24:55 093:009 > 7010
+
+14:24:56 094:007 > 8
+14:25:04 094:007 > 81
+14:25:04 094:008 > 810
+
+14:25:05 093:008 > 8
+14:25:05 093:009 > 80
+
+14:25:23 091:008 > 1
+14:25:24 091:009 > 10
+14:25:33 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+
+14:26:15 001:009 > b
+14:26:15 001:010 > bo
+14:26:15 001:011 > bod
+14:26:16 001:012 > body
+14:26:16 001:009 > body
+14:26:17 001:013 > .
+14:26:18 001:014 > .s
+14:26:18 001:015 > .st
+14:26:18 001:016 > .sty
+14:26:19 001:017 > .styl
+14:26:19 001:018 > .style
+14:26:19 001:013 > .style
+14:26:20 001:019 > .
+14:26:20 001:020 > .c
+14:26:20 001:021 > .co
+14:26:21 001:022 > .col
+14:26:21 001:023 > .colo
+14:26:21 001:024 > .color
+14:26:21 001:019 > .color
+14:26:31 001:020 > b
+14:26:31 001:021 > ba
+14:26:32 001:022 > bac
+14:26:32 001:023 > back
+14:26:32 001:024 > backg
+14:26:32 001:025 > backgr
+14:26:32 001:026 > backgro
+14:26:32 001:027 > backgrou
+14:26:32 001:028 > backgroun
+14:26:32 001:029 > background
+14:26:33 001:030 > backgroundc
+14:26:33 001:031 > backgroundco
+14:26:33 001:032 > backgroundcol
+14:26:33 001:033 > backgroundcolo
+14:26:33 001:034 > backgroundcolor
+14:26:33 001:020 > backgroundColor
+14:26:35 001:035 > 8
+14:26:35 001:035 > ()
+14:26:36 001:036 > ''
+14:26:37 001:037 > B
+14:26:37 001:038 > Bl
+14:26:37 001:039 > Bla
+14:26:37 001:040 > Blac
+14:26:38 001:041 > Black
+14:26:39 001:037 > Blackb
+14:26:39 001:038 > Blackbl
+14:26:39 001:039 > Blackbla
+14:26:40 001:040 > Blackblac
+14:26:40 001:041 > Blackblack
+14:27:41 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\style.css
+----------------------------------------
+
+14:27:56 059:010 > 5
+
+14:28:20 105:010 > 5
+
+14:28:21 106:011 > 5
+14:29:22 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+14:29:48 000:068 > ()
+14:30:36 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:30:38 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+
+14:30:40 001:009 > h
+14:30:40 001:010 > ht
+14:30:40 001:011 > htm
+14:30:40 001:012 > html
+14:30:40 001:009 > <!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, ,initial-scale=1">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+</body>
+</html>
+14:30:41 001:009 > html
+14:31:06 001:036 >  =
+14:31:07 001:037 >  ="
+14:31:07 001:043 >  =""
+14:31:09 001:044 >  ="";
+
+14:31:23 000:000 > f
+14:31:23 000:001 > fu
+14:31:23 000:002 > fun
+14:31:23 000:003 > func
+14:31:24 000:004 > funct
+14:31:24 000:005 > functi
+14:31:24 000:006 > functio
+14:31:24 000:007 > function
+14:31:24 000:000 > function
+14:31:25 000:009 >  m
+14:31:25 000:010 >  my
+14:31:26 000:012 >  my f
+14:31:26 000:013 >  my fu
+14:31:26 000:014 >  my fuc
+14:31:26 000:014 >  my fucn
+14:31:27 000:012 > function
+14:31:28 000:020 > ()
+14:31:30 000:020 > {}
+
+14:31:33 004:001 > }
+
+14:31:38 000:020 > (
+14:31:39 000:021 > ()
+
+14:32:57 004:001 > ,
+14:32:57 004:002 > ,,
+14:33:00 004:003 > ,,,
+14:33:14 003:001 > ()
+
+14:33:14 003:001 > )
+14:33:33 003:001 > ))
+14:33:48 001:035 > ()
+14:33:49 001:036 > ''
+
+14:33:50 001:037 > B
+14:33:50 001:037 > Bb
+14:33:51 001:038 > Bbl
+14:33:51 001:039 > Bbla
+14:33:51 001:040 > Bblac
+14:33:51 001:041 > Bblack
+14:33:58 001:037 > BblackB
+14:41:03 001:033 > BblackBo
+14:41:03 001:034 > BblackBor
+14:41:03 001:036 > BblackBor =
+14:41:07 001:042 > BblackBor ="
+14:41:10 001:037 > BblackBor =""
+14:41:31 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+
+14:41:44 028:018 > c
+14:41:44 028:019 > cl
+14:41:44 028:020 > cla
+14:41:45 028:018 > class=""
+14:41:46 028:025 > B
+14:41:46 028:026 > Bu
+14:41:50 028:020 > Bua
+14:41:50 028:021 > Buas
+14:41:51 028:022 > Buass
+14:41:52 028:018 > class=""
+14:41:53 028:025 > b
+14:41:53 028:026 > bu
+14:41:53 028:027 > but
+14:41:53 028:028 > butt
+14:41:53 028:029 > butto
+14:41:53 028:030 > button
+14:41:54 028:025 > button
+14:41:56 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+
+14:41:59 000:024 > .
+14:42:48 001:008 > .querySelector('.button')
+
+14:43:18 001:033 > .
+14:43:46 001:009 > .b
+14:43:46 001:010 > .bo
+14:43:47 001:011 > .bod
+14:43:48 001:008 > .body
+14:43:51 001:013 > .
+14:43:52 001:014 > .b
+14:43:52 001:014 > .bs
+14:43:53 001:015 > .bst
+14:43:53 001:016 > .bsty
+14:43:53 001:013 > .style
+14:43:54 001:019 > .
+14:43:54 001:020 > .b
+14:43:54 001:021 > .ba
+14:43:55 001:022 > .bac
+14:43:55 001:023 > .back
+14:43:56 001:024 > .backc
+14:43:56 001:024 > .backcg
+14:43:56 001:025 > .backcgr
+14:43:57 001:026 > .backcgro
+14:43:57 001:027 > .backcgrou
+14:43:57 001:028 > .backcgroun
+14:43:57 001:029 > .backcground
+14:43:58 001:030 > .backcgroundc
+14:43:59 001:019 > .backgroundColor
+14:44:31 001:009 > h
+14:44:31 001:010 > ht
+14:44:32 001:011 > htm
+14:44:32 001:012 > html
+14:44:40 001:009 > htmlb
+14:44:40 001:010 > htmlbo
+14:44:40 001:011 > htmlbod
+14:44:40 001:012 > htmlbody
+14:44:42 001:009 > body
+14:44:47 002:000 > document.body.style.backgroundColor ="Black";
+
+14:44:53 002:009 > h
+14:44:53 002:010 > ht
+14:44:53 002:011 > htm
+14:44:53 002:012 > html
+14:45:13 002:000 > htmld
+14:45:13 002:001 > htmldo
+14:45:13 002:002 > htmldoc
+14:45:13 002:003 > htmldocu
+14:45:14 002:004 > htmldocum
+14:45:14 002:000 > document
+14:45:15 002:008 > .
+14:45:16 002:009 > .q
+14:45:16 002:010 > .qu
+14:45:16 002:009 > querySelector
+14:45:17 002:022 > (
+14:45:21 002:023 > ()
+14:45:22 002:023 > ()h
+14:45:22 002:024 > ()ht
+14:45:23 002:025 > ()htm
+14:45:23 002:026 > ()html
+14:45:23 002:023 > html
+14:45:56 002:023 > '
+14:45:58 002:028 > ''
+14:46:21 002:055 > ''d
+14:46:21 002:056 > ''dA
+14:46:22 002:057 > ''dAR
+14:46:22 002:058 > ''dARK
+14:46:23 002:055 > ''dARKD
+14:46:23 002:056 > ''dARKDA
+14:46:23 002:057 > ''dARKDAR
+14:46:23 002:058 > ''dARKDARK
+14:46:24 002:055 > ''dARKDARKd
+14:46:24 002:056 > ''dARKDARKda
+14:46:24 002:057 > ''dARKDARKdar
+14:46:24 002:058 > ''dARKDARKdark
+14:46:25 002:059 > ''dARKDARKdarkg
+14:46:25 002:060 > ''dARKDARKdarkgr
+14:46:25 002:061 > ''dARKDARKdarkgre
+14:46:25 002:062 > ''dARKDARKdarkgrey
+
+14:46:28 001:038 > d
+14:46:28 001:039 > da
+14:46:28 001:040 > dar
+14:46:28 001:041 > dark
+14:46:28 001:042 > darkg
+14:46:29 001:043 > darkge
+14:46:29 001:044 > darkger
+14:46:29 001:045 > darkgery
+14:46:30 001:043 > darkgeryr
+14:46:30 001:044 > darkgeryre
+14:46:30 001:045 > darkgeryrey
+14:47:31 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:47:33 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Wares.html
+----------------------------------------
+14:47:33 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\index.html
+----------------------------------------
+14:47:34 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\script.js
+----------------------------------------
+14:47:34 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\index.html
+----------------------------------------
+14:47:35 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Wares.html
+----------------------------------------
+14:47:37 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+14:47:41 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\style.css
+----------------------------------------
+14:47:42 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\Slutprojekt\Aboutus.html
+----------------------------------------
+
+14:47:49 000:000 > L
+14:47:49 000:001 > La
+14:47:49 000:003 > La t
+14:47:49 000:004 > La ti
+14:47:50 000:005 > La til
+14:47:52 000:000 > La tilL
+14:47:52 000:001 > La tilLa
+14:47:52 000:003 > La tilLa t
+14:47:52 000:004 > La tilLa ti
+14:47:52 000:005 > La tilLa til
+14:47:52 000:006 > La tilLa till
+14:47:53 000:008 > La tilLa till j
+14:47:53 000:009 > La tilLa till ja
+14:47:53 000:010 > La tilLa till jav
+14:47:53 000:011 > La tilLa till java
+14:47:54 000:012 > La tilLa till javas
+14:47:54 000:013 > La tilLa till javasc
+14:47:54 000:014 > La tilLa till javascr
+14:47:54 000:015 > La tilLa till javascri
+14:47:54 000:016 > La tilLa till javascrip
+14:47:54 000:017 > La tilLa till javascript
+14:47:55 000:019 > La tilLa till javascript o
+14:47:55 000:020 > La tilLa till javascript oc
+14:47:55 000:021 > La tilLa till javascript och
+14:48:03 000:018 > La tilLa till javascript och ,
+14:48:04 000:020 > La tilLa till javascript och , e
+14:48:04 000:021 > La tilLa till javascript och , en
+14:48:04 000:023 > La tilLa till javascript och , en t
+14:48:05 000:024 > La tilLa till javascript och , en ti
+14:48:05 000:025 > La tilLa till javascript och , en til
+14:48:05 000:026 > La tilLa till javascript och , en till
+14:48:05 000:028 > La tilLa till javascript och , en till g
+14:48:05 000:029 > La tilLa till javascript och , en till gr
+14:48:06 000:030 > La tilLa till javascript och , en till gri
+14:48:06 000:031 > La tilLa till javascript och , en till grid
+14:48:10 000:032 > La tilLa till javascript och , en till grid  ,
+14:48:12 000:034 > La tilLa till javascript och , en till grid  , o
+14:48:12 000:035 > La tilLa till javascript och , en till grid  , oc
+14:48:12 000:036 > La tilLa till javascript och , en till grid  , och
+14:48:12 000:038 > La tilLa till javascript och , en till grid  , och e
+14:48:13 000:039 > La tilLa till javascript och , en till grid  , och en
+14:48:16 000:033 > La tilLa till javascript och , en till grid  , och en  o
+14:48:16 000:034 > La tilLa till javascript och , en till grid  , och en  oc
+14:48:16 000:035 > La tilLa till javascript och , en till grid  , och en  och
+14:48:18 000:037 > La tilLa till javascript och , en till grid  , och en  och ä
+14:48:18 000:038 > La tilLa till javascript och , en till grid  , och en  och än
+14:48:18 000:039 > La tilLa till javascript och , en till grid  , och en  och änd
+14:48:19 000:040 > La tilLa till javascript och , en till grid  , och en  och ändr
+14:48:19 000:041 > La tilLa till javascript och , en till grid  , och en  och ändra
+14:48:19 000:042 > La tilLa till javascript och , en till grid  , och en  och ändrad
+14:48:19 000:043 > La tilLa till javascript och , en till grid  , och en  och ändrade
+14:48:19 000:045 > La tilLa till javascript och , en till grid  , och en  och ändrade p
+14:48:19 000:046 > La tilLa till javascript och , en till grid  , och en  och ändrade på
+14:48:20 000:048 > La tilLa till javascript och , en till grid  , och en  och ändrade på b
+14:48:20 000:049 > La tilLa till javascript och , en till grid  , och en  och ändrade på bi
+14:48:20 000:050 > La tilLa till javascript och , en till grid  , och en  och ändrade på bil
+14:48:20 000:051 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild
+14:48:21 000:053 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild s
+14:48:21 000:054 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild so
+14:48:22 000:054 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild sot
+14:48:22 000:055 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild soto
+14:48:22 000:056 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild sotor
+14:48:22 000:057 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild sotork
+14:48:23 000:057 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild sotorkl
+14:48:23 000:058 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild sotorkle
+14:48:23 000:059 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild sotorklek
+14:48:23 000:060 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild sotorkleke
+14:48:23 000:061 > La tilLa till javascript och , en till grid  , och en  och ändrade på bild sotorkleker
+14:48:34 001:016 > <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, ,initial-scale=1" />
+    <title>About us</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="content">
+      <div>
+        <nav class="navigation">
+          <ul>
+            <a href="Wares.html">Wares</a>
+          </ul>
+          <ul>
+            <a href="index.html">Homepage</a>
+          </ul>
+          <ul>
+            <a href="Aboutus.html">About us</a>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="main">
+        <div class="Header">
+          <h1>Martins mineraler</h1>
+          <button class="button">Dark mode Knapp</button>
+        </div>
+        <h2>
+          vi på martings mineraler har sålt mineraler i 2 generationer och
+          siktar på att sälja de högsta qualitet mineralerna vi kan få tag på
+          till våra kunder and aim to provide the
+        </h2>
+        <h2>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi
+          nihil rem, labore repudiandae amet, minima hic explicabo ab ipsum,
+          fugit accusantium. Fugit nemo optio voluptatibus, ab cum quo amet
+          voluptatum.
+        </h2>
+        <h3>
+          du kan kontakta oss på maijlet Martin@minerals.se eller alternativt på
+          telefon numret 073-435-64-54
+        </h3>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+14:48:34 000:000 > document.querySelector('.button').addEventListener('click', function (){
+document.body.style.backgroundColor ="darkgrey";
+document.querySelector('html').style.backgroundColor ="darkgrey";
+})
+14:48:40 Document switched to: c:\Users\ludwig.langell\github-classroom\TE22C-WEUWEB01\webb-1-TE22C-Langell-Ludwig\slutprojekt-TE22C-Langell-Ludwig\.vscode\.logs\24-05-29-14-04.txt
+----------------------------------------

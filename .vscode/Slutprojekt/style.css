@@ -1,0 +1,150 @@
+Html {
+  margin: 0px;
+
+
+}
+
+ul {
+  display: inline-block;
+  padding: 10px;
+  margin: auto;
+  background-color: white;
+  border: 3px solid;
+  border-color: tomato;
+  color: black;
+  border-radius: 3px;
+  width: 371px;
+  height: 80px;
+  text-align: center;
+}
+
+a {
+  font-size: xx-large;
+  text-align: center;
+
+}
+
+nav {
+  margin: auto;
+  width: 1200px;
+  height: 100px;
+}
+
+div .main {
+
+  margin: auto;
+  width: 800px;
+  height: 700px;
+  background-color: rgb(60, 60, 190);
+  border: 3px solid;
+  border-color: black;
+
+}
+
+.content {
+  margin: auto;
+}
+
+.navigation {
+  border: 10px solid;
+  border-color: black;
+  margin-bottom: 10px;
+
+}
+
+aside img {
+  height: 250px;
+  width: 250px;
+  border: 3px solid;
+  border-color: red;
+  margin: 5px 0px 0px 0px;
+}
+
+.main h1 {
+  padding: 15px 0px 15px 10px;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.main h2 {
+  margin: 0px;
+  font-size: 20px;
+  padding: 0px 0px 10px 15px;
+
+}
+
+.main h3 {
+  margin: 0px;
+  font-size: 20px;
+  padding: 10px 0px 0px 15px;
+}
+
+aside {
+  margin-left: auto;
+  padding-left: 10px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr;
+}
+
+button{
+margin: 10px 35% 0px 30%;
+padding: 10px 0px 10px 0px;
+height: 80px;
+width: 100px;
+}
+
+.Header{
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 1fr;
+
+}
+
+.Varor img {
+  width: 150px;
+  height: 150px;
+  border: 3px solid;
+  border-color: red;
+  margin: 10px;
+}
+
+html {
+  background-color: aqua;
+
+}
+
+.Varor a {
+  color: azure;
+  text-decoration: none;
+  padding: 10px;
+  border: 5px solid;
+  border-color: black;
+  width: 80px;
+  height: 100px;
+}
+
+.Varor a:hover {
+  color: gray;
+  text-decoration: none;
+  padding: 10px;
+  border: 5px solid;
+  border-color: azure;
+  width: 80px;
+  height: 100px;
+}
+
+.Varor {
+  background: rgb(60, 60, 190);
+  padding: 10px;
+  border: 3px solid;
+  border-color: black;
+  margin: auto;
+  width: 500px;
+  height: 1200px;
+  display: grid;
+  grid-template-columns: 3fr 2fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+
+}
